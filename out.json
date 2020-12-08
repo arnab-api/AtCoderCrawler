@@ -1,0 +1,79 @@
+[
+    {
+        "contestant": "purple_ghost",
+        "history": [
+            {
+                "contest_date": "2019-07-20 22:40:00+0900",
+                "contest_name": "AtCoder Beginner Contest 134\n",
+                "links": [
+                    "/contests/abc134",
+                    "/contests/abc134/submissions?f.User=purple_ghost"
+                ],
+                "rank": "1932",
+                "performance": "939",
+                "new_rating": "77",
+                "difference": "-"
+            },
+            {
+                "contest_date": "2020-10-24 22:40:00+0900",
+                "contest_name": "AtCoder Regular Contest 106\n",
+                "links": [
+                    "/contests/arc106",
+                    "/contests/arc106/submissions?f.User=purple_ghost"
+                ],
+                "rank": "1354",
+                "performance": "1247",
+                "new_rating": "367",
+                "difference": "+290"
+            },
+            {
+                "contest_date": "2020-11-08 22:40:00+0900",
+                "contest_name": "AtCoder Beginner Contest 182\n",
+                "links": [
+                    "/contests/abc182",
+                    "/contests/abc182/submissions?f.User=purple_ghost"
+                ],
+                "rank": "1636",
+                "performance": "1198",
+                "new_rating": "599",
+                "difference": "+232"
+            },
+            {
+                "contest_date": "2020-11-15 22:40:00+0900",
+                "contest_name": "AtCoder Beginner Contest 183\n",
+                "links": [
+                    "/contests/abc183",
+                    "/contests/abc183/submissions?f.User=purple_ghost"
+                ],
+                "rank": "2223",
+                "performance": "991",
+                "new_rating": "675",
+                "difference": "+76"
+            },
+            {
+                "contest_date": "2020-11-21 22:40:00+0900",
+                "contest_name": "AtCoder Regular Contest 108\n",
+                "links": [
+                    "/contests/arc108",
+                    "/contests/arc108/submissions?f.User=purple_ghost"
+                ],
+                "rank": "817",
+                "performance": "1569",
+                "new_rating": "888",
+                "difference": "+213"
+            },
+            {
+                "contest_date": "2020-11-28 23:00:00+0900",
+                "contest_name": "AtCoder Regular Contest 109\n",
+                "links": [
+                    "/contests/arc109",
+                    "/contests/arc109/submissions?f.User=purple_ghost"
+                ],
+                "rank": "1430",
+                "performance": "1194",
+                "new_rating": "937",
+                "difference": "+49"
+            }
+        ]
+    }
+]
